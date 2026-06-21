@@ -1,0 +1,2 @@
+Linear Search: Product Found at Index 3
+Binary Search: Product Found at Index 3
