@@ -1,0 +1,13 @@
+Employee Records:
+101 John Manager 50000.0
+102 Priya Developer 40000.0
+103 Rahul Tester 35000.0
+
+Employee Found:
+102 Priya Developer 40000.0
+
+Employee Deleted
+
+Employee Records After Deletion:
+101 John Manager 50000.0
+103 Rahul Tester 35000.0
