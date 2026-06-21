@@ -1,0 +1,13 @@
+Task List:
+101 Design UI Pending
+102 Write Code In Progress
+103 Testing Pending
+
+Task Found:
+102 Write Code In Progress
+
+Task Deleted
+
+Task List After Deletion:
+101 Design UI Pending
+103 Testing Pending

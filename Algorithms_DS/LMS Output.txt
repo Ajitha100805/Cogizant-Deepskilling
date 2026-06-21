@@ -1,0 +1,11 @@
+Linear Search:
+Book Found
+Book ID: 103
+Title: Java Programming
+Author: James Gosling
+
+Binary Search:
+Book Found
+Book ID: 103
+Title: Java Programming
+Author: James Gosling
