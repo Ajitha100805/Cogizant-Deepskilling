@@ -1,0 +1,7 @@
+Stock Price Changed to 1000
+Mobile App: Stock price updated to Rs.1000.0
+Web App: Stock price updated to Rs.1000.0
+
+Stock Price Changed to 1200
+Mobile App: Stock price updated to Rs.1200.0
+Web App: Stock price updated to Rs.1200.0
